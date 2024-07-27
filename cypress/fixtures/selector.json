@@ -1,0 +1,19 @@
+{
+  "homePagesignUpBotton": ".Header2_header__nav__btn__wRKfY div:nth-child(2) button",
+  "fullnameField": "#fullname",
+  "BiznameField": "#businessname",
+  "BizemailField": "#businessemail",
+  "PhonenumberField": "#businessphonenumber",
+  "BizregNumField": "#businessRegNum",
+  "nextBottun": "button.sc-imWYAI.fDRXF",
+  "websiteFiled ": "#website",
+  "ighandleField": "#instagramHandle",
+  "XhandleField": "#twitterHandle",
+  "infoField": "div.sc-cPiKLX.iafYdr",
+  "dropdownOption": ".MimaDropdown_select__options__xLi7K",
+  "passwordField": "#password",
+  "signUpButton": "button[type='submit']",
+  "welcomeMessage": "Onboarding_left__h2__w+P+z",
+
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
